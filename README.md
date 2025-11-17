@@ -21,7 +21,7 @@ This project allows you to control 5 LEDs connected to an Arduino using hand ges
 - MediaPipe
 - PySerial
 
-This is my fork of our original team project.
+Fork of our original team project, including the Tinkercad simulation, working prototype, and full codebase I contributed to.
 
 Install dependencies:
 ```bash
